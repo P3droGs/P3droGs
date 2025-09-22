@@ -1,9 +1,9 @@
 
-<h1 align="center">Opa 👋, Eu sou o Pedro Henrique</h1>
-<h3 align="center">Futuro Desenvolvedor Full Stack</h3>
+<h1 align="left">Opa 👋, Eu sou o Pedro Henrique</h1>
+<h3 align="left">Futuro Desenvolvedor Full Stack</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
