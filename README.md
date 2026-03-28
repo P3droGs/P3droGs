@@ -52,27 +52,8 @@ Acredito na aprendizagem contínua, no trabalho em equipe e no código como ferr
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </a>
-</p>
 
-<h3 align="left">💡 Habilidades:</h3>
-<p align="left">
-✔ Desenvolvimento de Software <br>
-✔ HTML, CSS, JavaScript <br>
-✔ React e TypeScript <br>
-✔ Node.js <br>
-✔ Banco de Dados (SQL e MongoDB) <br>
-✔ Linux <br>
-✔ Metodologias Ágeis (Scrum) <br>
-✔ Python <br>
-✔ Vite
-</p>
-
-<h3 align="left">📚 Cursos e Certificações:</h3>
-<p align="left">
-🎓 Domine a IA com prompting responsável - Santander Open Academy (2025)
-</p>
-
-<h3 align="left">🌎 Idiomas:</h3>
-<p align="left">
-🇺🇸 Inglês - Intermediário
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+</a>
 </p>
