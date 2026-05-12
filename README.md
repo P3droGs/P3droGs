@@ -3,10 +3,9 @@
 **Desenvolvedor de Software em Formação**
 
 **Localização:** Jacareí, São Paulo — Brasil
-
 **Formação:** Desenvolvimento de Software Multiplataforma — FATEC-SP (conclusão prevista: 2027)
-
 **Contato:** pedro01082006@gmail.com
+**LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
 
 ---
 
