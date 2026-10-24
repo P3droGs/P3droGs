@@ -1,56 +1,47 @@
-# Pedro Henrique
+# Pedro Henrique Bernardo Barbosa
 
-**Desenvolvedor de Software em Formação**
+**Desenvolvedor Full Stack em formação · React · TypeScript · Node.js**
 
-**Localização:** Jacareí, São Paulo — Brasil
+Estudante do 4º semestre de Desenvolvimento de Software Multiplataforma na **Fatec Jacareí**, em busca de estágio ou vaga júnior em desenvolvimento web.
 
-**Formação:** Desenvolvimento de Software Multiplataforma — FATEC-SP (conclusão prevista: 2027)
-
-**Contato:** pedro01082006@gmail.com
-
-**LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-bernardo-barbosa-114486364/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro01082006@gmail.com)
 
 ---
 
-## Sobre
+## Sobre mim
 
-Estudante de tecnologia com foco em desenvolvimento de software, em busca da primeira oportunidade profissional na área. Objetivo de aplicar conhecimentos técnicos na prática, evoluir continuamente e contribuir com soluções eficientes em ambientes colaborativos.
-
-Comprometido com aprendizado contínuo, trabalho em equipe e boas práticas de desenvolvimento.
-
----
+- Desenvolvo com JavaScript e TypeScript: React e Vite no front-end, Node.js no back-end, PostgreSQL e MongoDB nos dados.
+- Fui Scrum Master do **DevFlow CRM**, sistema feito para uma concessionária real, com 100% das entregas planejadas concluídas.
+- Uso Git e GitHub no dia a dia e IA como apoio para estudar e revisar código.
+- Jacareí, SP · Conclusão do curso prevista para dezembro de 2027.
 
 ## Tecnologias
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" alt="Python"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python,postgres,mongodb,docker,git,github,linux,figma&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Node.js, Python, PostgreSQL, MongoDB, Docker, Git, GitHub, Linux, Figma" />
 </p>
+
+## Projetos em destaque
+
+### [DevFlow CRM](https://github.com/prjDevflow/prj_3dsm)
+
+CRM web que centraliza os leads presenciais e digitais da concessionária **1000 Valle Multimarcas**, com dashboards de funil de vendas, taxa de conversão e desempenho por equipe. Projeto ABP do 3º semestre na Fatec Jacareí.
+
+- **Meu papel:** Scrum Master da equipe de 6 pessoas, facilitando as cerimônias, organizando o backlog no Trello e acompanhando o burndown.
+- **Resultado:** 34 itens e 166 story points entregues em 3 sprints, 100% do planejado.
+- **Destaques técnicos:** autenticação JWT com 4 perfis de acesso, mais de 25 endpoints REST documentados no Swagger, arquitetura em camadas e ambiente com Docker Compose.
+- **Stack:** React · TypeScript · Vite · TailwindCSS · Node.js · Express · PostgreSQL · Prisma · Docker
+
+### Sistema de Consulta de Horários Acadêmicos
+
+[Front-end](https://github.com/prjDevflow/prj_1sem_client) · [Back-end](https://github.com/prjDevflow/prj_1sem_server) · [Aplicação online](https://prj-1sem-client.vercel.app)
+
+Sistema web para a comunidade acadêmica consultar horários de aula por curso, sala, turno e turma. Projeto ABP do 1º semestre.
+
+- **Contribuí com:** o modal interativo de ocupação das salas, a rota da grade horária por turma, as consultas que evitam conflito de sala e professor e a carga de dados via CSV.
+- **Stack:** HTML · CSS · JavaScript · Node.js · PostgreSQL
+
+---
+
+Aberto a oportunidades de estágio e júnior. Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/pedro-henrique-bernardo-barbosa-114486364/) ou pelo e-mail pedro01082006@gmail.com.
