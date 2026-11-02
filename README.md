@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack em formação · React · TypeScript · Node.js**
 
-Estudante do 4º semestre de Desenvolvimento de Software Multiplataforma na **Fatec Jacareí**, em busca de estágio ou vaga júnior em desenvolvimento web.
+Estudante do 4º semestre de Desenvolvimento de Software Multiplataforma na **Fatec Jacareí**, em busca de estágio ou vaga júnior na área.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-bernardo-barbosa-114486364/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro01082006@gmail.com)
